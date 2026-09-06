@@ -218,8 +218,3 @@ they do not regress performance or stability.
 The stealth features are privacy-first anti-fingerprinting: they present a
 normal, consistent browser identity so ordinary automation is not singled out.
 Contributions that add detection-evasion for abusive purposes are out of scope.
-
-## License
-
-By contributing, you agree that your contributions are licensed under the
-[Apache License 2.0](LICENSE), the same license as the project.
